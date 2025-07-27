@@ -14,9 +14,11 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 🎓 I'm a Data Science undergraduate passionate about turning data into actionable insights.
+- 📊 Currently exploring projects in Machine Learning, Data Visualization, and Predictive Modeling.
+- 💬 Ask me about Python, Pandas, Scikit-learn, or my journey with real-world datasets.
+- 🌱 Actively deepening my skills through Kaggle challenges and Coursera Data Science Specialization.
+- 🚀 Looking forward to contributing to open-source projects and collaborating with other data-driven minds.
 
 ## 🛠 &nbsp;Tech Stack
 
